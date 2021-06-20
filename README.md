@@ -68,6 +68,9 @@ Follow the instructions below to link the dependencies with the project.
    </br>
 13. Click apply and close.
     </br>
+14. Copy the glew32.dll file and paste it into the project's debug directory after running in Visual Studio.<br>
+    Note: You may need to right-click on the project's solution file and select configuration manager > then filter from x64 to x86 to support this project.
+    </br>
 15. The project should now be set up without errors. 
     </br>
 
