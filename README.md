@@ -2,7 +2,7 @@
 
 This project creates a 3D representation of a 2D image using the OpenGL API. The image includes a laptop, a book, and a piece of paper sitting on a granite countertop. The screencast below demonstrates navigating the 3D. The usage section discusses scene navigation in more depth.
 </br>
-<img src="README_Images/3D_Scene_Screencast" width="40" height="40" />
+<img src="README_Images/3D_Scene_Screencast.gif" width="40" height="40" />
 
 <h2>Installation</h2>
 </br>
@@ -20,15 +20,15 @@ Follow the instructions below to link the dependencies with the project.
 </br>
 1. Right click on the top level of the project in visual studio and select properties. 
    </br>
-   <img src="/README_Images/setup/setupImage1.png" alt="Step 1" width="500" height="200">
+   <img src="/README_Images/setup/setupImage1.png" alt="Step 1" width="500" height="400">
    </br>
 2. Select VC++ directories in the window that pops up.
    </br>
-   <img src="/README_Images/setup/setupImage2.png" alt="Step 2" width="500" height="200">
+   <img src="/README_Images/setup/setupImage2.png" alt="Step 2" width="500" height="400">
    </br>
 3. Select include directories from the option given.
    </br>
-   <img src="/README_Images/setup/setupImage3.png" alt="Step 3" width="500" height="200">
+   <img src="/README_Images/setup/setupImage3.png" alt="Step 3" width="500" height="400">
    </br>
 4. Click on the folder icon, then the three dots to add the paths to the OpenGL directories.
    </br>
@@ -53,7 +53,7 @@ Follow the instructions below to link the dependencies with the project.
    </br>
 10. Next, add the path to the visual studio version in the GLFW folder.
    </br>
-   <img src="/README_Images/setup/setupImage9.png" alt="Step 9" width="500" height="200">
+   <img src="/README_Images/setup/setupImage9.png" alt="Step 9" width="500" height="400">
    </br>
 11. Finally, go to linker > input > and expand the arrow on additional dependencies.
    </br>
@@ -61,7 +61,7 @@ Follow the instructions below to link the dependencies with the project.
    </br>
 12. Type the four dependencies given below.
    </br>
-   <img src="/README_Images/setup/setupImage11.png" alt="Step 11" width="500" height="400">
+   <img src="/README_Images/setup/setupImage11.png" alt="Step 11" width="500" height="200">
    </br>
 13. Click apply and close.
     </br>
