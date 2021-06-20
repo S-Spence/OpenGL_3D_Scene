@@ -2,21 +2,23 @@
 
 This project creates a 3D representation of a 2D image using the OpenGL API. The image includes a laptop, a book, and a piece of paper sitting on a granite countertop. The screencast below demonstrates navigating the 3D. The usage section discusses scene navigation in more depth.
 </br>
-<img src="README_Images/3D_Scene_Screencast.gif" width="40" height="40" />
+<img src="README_Images/3D_Scene_Screencast.gif" width="600" height="600" />
 
 <h2>Installation</h2>
 </br>
-1.Install the Visual Studio version that matches your operating system from the <a href="https://visualstudio.microsoft.com/downloads/">download page</a>.
+1. Install the Visual Studio version that matches your operating system from the <a href="https://visualstudio.microsoft.com/downloads/">download page</a>.
 </br>
-2.Select the C++ plug-ins at installation.
+2. Select the C++ plug-ins at installation.
 </br>
-3.Clone or fork the project and unzip the OpenGL zip folder containing the project's dependencies. This zip folder should include subfolders for GLAD, GLEW, GLFW, and glm. My university provided the library folders to guide the completion of this project. 
+3. Clone or fork the project and unzip the OpenGL zip folder containing the project's dependencies. This zip folder should include subfolders for GLAD, GLEW, GLFW, and glm. My university provided the library folders to guide the completion of this project. 
 </br>
 
 <h2>Getting Started</h2>
 Open the project in visual studio by launching the .sln file. 
 </br>
+</br>
 Follow the instructions below to link the dependencies with the project. 
+</br>
 </br>
 1. Right click on the top level of the project in visual studio and select properties. 
    </br>
@@ -69,6 +71,9 @@ Follow the instructions below to link the dependencies with the project.
     </br>
 
 <h2> Usage </h2>
+#FIXME
+</br>
+Add usage
 
 
 
