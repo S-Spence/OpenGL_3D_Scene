@@ -2,7 +2,7 @@
 
 This project creates a 3D representation of a 2D image using the OpenGL API. The image includes a laptop, a book, and a piece of paper sitting on a granite countertop. The screencast below demonstrates navigating the 3D. The usage section discusses scene navigation in more depth.
 </br>
-<img src="README_Images/3D_Scene_Screencast.gif" width="600" height="800" />
+<img src="README_Images/3D_Scene_Screencast.gif" width="800" height="600" />
 
 <h2>Installation</h2>
 </br>
