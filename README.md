@@ -82,12 +82,10 @@ The scene contains five point lights positioned above the countertop to represen
 The exterior point lights reflect a yellow light off the white piece of paper. The interior lights
 reflect a white light off the granite countertop.
 </br>
-</br>
 <h3>Textures</h3>
 All objects in the scene used images of the item’s real-life counterpart for texturing.
 The "Textures" folder contains the texture images for the scene. 
 The laptop and book do not reflect light due to their complex textures.
-</br>
 </br>
 
 <h3>Camera Navigation</h3>
@@ -106,11 +104,9 @@ The laptop and book do not reflect light due to their complex textures.
 </body>
 </html>
 </br>
-</br>
 
 <h2>Credits</h2>
 <a href="https://learnopengl.com/">LearnOpenGL</a> provided the project headers (stb_imgae.h and camera.h)
-</br>
 </br>
 My university provided the shader class files (shader.h, shader.cpp, and shader.hpp) and the images for the setup instructions. I omitted the university's name to remove assignment identifiers from this project. 
 
