@@ -15,10 +15,10 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
 </br>
 
 <h2>Getting Started</h2>
-1. Open the project in visual studio by launching the .sln file. Follow the instructions below to link the project's dependencies. 
+1. Open the project in Visual Studio by launching the .sln file. Follow the instructions below to link the project's dependencies. 
 </br>
 </br>
-2. Right click on the top level of the project in visual studio and select properties. 
+2. Right-click on the top level of the project in Visual Studio and select properties. 
    </br>
    <img src="/README_Images/setup/setupImage1.png" alt="Step 1" width="500" height="400">
    </br>
@@ -77,10 +77,20 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
 </br>
 <html>
 <body>
-#TODO
-Decribe lighting and texture features
+<h3>Lighting</h3>
+The project incorporates the phong lighting model using ambient, specular, and diffuse lighting.
+The scene contains five point lights positioned above the countertop to represent ceiling lights. 
+The exterior point lights reflect a yellow light off the white piece of paper. The interior lights
+reflect a white light off the granite countertop.
 </br>
 </br>
+<h3>Textures</h3>
+All objects in the scene used images of the item’s real-life counterpart for texturing.
+The "Textures" folder contains the texture images for the scene. 
+The laptop and book do not reflect light due to their complex textures.
+</br>
+</br>
+
 <h3>Camera Navigation</h3>
 
 <ul>
