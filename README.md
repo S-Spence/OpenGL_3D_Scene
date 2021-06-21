@@ -108,6 +108,7 @@ The laptop and book do not reflect light due to their complex textures.
 <h2>Credits</h2>
 <a href="https://learnopengl.com/">LearnOpenGL</a> provided the project headers (stb_imgae.h and camera.h)
 </br>
+</br>
 My university provided the shader class files (shader.h, shader.cpp, and shader.hpp) and the images for the setup instructions. I omitted the university's name to remove assignment identifiers from this project. 
 
 
