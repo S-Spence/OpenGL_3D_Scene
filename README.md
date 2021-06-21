@@ -74,7 +74,6 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
     </br>
 
 <h2> Features and Usage </h2>
-</br>
 <html>
 <body>
 <h3>Lighting</h3>
