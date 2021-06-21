@@ -77,8 +77,11 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
 </br>
 <html>
 <body>
-
-<h2>Camera Navigation</h2>
+#TODO
+Decribe lighting and texture features
+</br>
+</br>
+<h4>Camera Navigation</h4>
 
 <ul>
   <li>"A" key: Move the camera left</li>
@@ -94,11 +97,7 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
 </body>
 </html>
 </br>
-#TODO
-Decribe lighting and texture features
 </br>
-</br>
-
 
 # Credits
 <a href="https://learnopengl.com/">LearnOpenGL</a> provided the project headers (stb_imgae.h and camera.h)
