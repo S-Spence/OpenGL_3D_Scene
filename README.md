@@ -15,7 +15,7 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
 </br>
 
 <h2>Getting Started</h2>
-1. Open the project in visual studio by launching the .sln file. Follow the instructions below to link the dependencies with the project. 
+1. Open the project in visual studio by launching the .sln file. Follow the instructions below to link the project's dependencies. 
 </br>
 </br>
 2. Right click on the top level of the project in visual studio and select properties. 
@@ -74,16 +74,37 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
     </br>
 
 <h2> Features and Usage </h2>
-#FIXME
 </br>
-Add usage
+<html>
+<body>
+
+<h2>Camera Navigation</h2>
+
+<ul>
+  <li>"A" key: Move the camera left</li>
+  <li>"D" key: Move the camera right</li>
+  <li>"Q" key: Move the camera up</li>
+  <li>"E" key: Move the camera down</li>
+  <li>"W" key: Zoom the camera in</li>
+  <li>"S" key: Zoom the camera out</li>
+  <li>"P" key: Change the view from perspective to orthographic. (Note: perspective is better for 3D)</li>
+  <li>Mouse navigation: Rotate the camera around the scene while remaining stationary</li>
+  <li>Mouse scroll: alter the camera's speed</li>
+</ul>  
+</body>
+</html>
+</br>
+#TODO
+Decribe lighting and texture features
+</br>
+</br>
 
 
 # Credits
 <a href="https://learnopengl.com/">LearnOpenGL</a> provided the project headers (stb_imgae.h and camera.h)
 </br>
 </br>
-My university provided the shader class files (shader.h, shader.cpp, and shader.hpp). I omitted the university's name to remove assignment identifiers from this project. 
+My university provided the shader class files (shader.h, shader.cpp, and shader.hpp) and the images for the setup instructions. I omitted the university's name to remove assignment identifiers from this project. 
 
 
 
