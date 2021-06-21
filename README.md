@@ -81,7 +81,7 @@ This project creates a 3D representation of a 2D image using the OpenGL API. The
 Decribe lighting and texture features
 </br>
 </br>
-<h4>Camera Navigation</h4>
+<h3>Camera Navigation</h3>
 
 <ul>
   <li>"A" key: Move the camera left</li>
@@ -99,7 +99,7 @@ Decribe lighting and texture features
 </br>
 </br>
 
-# Credits
+<h2>Credits</h2>
 <a href="https://learnopengl.com/">LearnOpenGL</a> provided the project headers (stb_imgae.h and camera.h)
 </br>
 </br>
